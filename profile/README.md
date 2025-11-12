@@ -14,7 +14,7 @@ Equipe:
 Links do projeto:
 -   [Documentação](https://github.com/Artelie-PI/PI-Descricao)
 -   Backend: [Repositório](https://github.com/Artelie-PI/Artelie-BackEnd) e [Publicação](https://artelie-backend.onrender.com/)
--   Frontend: [Repositório](https://github.com/Artelie-PI/Artelie-FrontEnd) e [Publicação](https://artelie-frontend.onrender.com/)
+-   Frontend: [Repositório](https://github.com/Artelie-PI/Artelie-FrontEnd) e [Publicação](https://artelieweb.web.app/)
 
 # 1. Desenvolvimento
 
